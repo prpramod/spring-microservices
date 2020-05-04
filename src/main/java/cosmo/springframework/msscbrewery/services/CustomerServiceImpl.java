@@ -1,7 +1,7 @@
 package cosmo.springframework.msscbrewery.services;
 
 
-import cosmo.springframework.msscbrewery.web.model.CustomerDto;
+import cosmo.springframework.msscbrewery.model.CustomerDto;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 

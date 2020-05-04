@@ -1,9 +1,8 @@
 package cosmo.springframework.msscbrewery.controller;
 
 
-import com.fasterxml.jackson.databind.deser.std.UUIDDeserializer;
 import cosmo.springframework.msscbrewery.services.BeerService;
-import cosmo.springframework.msscbrewery.web.model.BeerDto;
+import cosmo.springframework.msscbrewery.model.BeerDto;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

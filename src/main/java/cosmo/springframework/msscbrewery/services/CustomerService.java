@@ -1,6 +1,6 @@
 package cosmo.springframework.msscbrewery.services;
 
-import cosmo.springframework.msscbrewery.web.model.CustomerDto;
+import cosmo.springframework.msscbrewery.model.CustomerDto;
 
 import java.util.UUID;
 

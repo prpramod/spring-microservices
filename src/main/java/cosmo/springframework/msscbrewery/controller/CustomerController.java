@@ -1,7 +1,7 @@
 package cosmo.springframework.msscbrewery.controller;
 
 import cosmo.springframework.msscbrewery.services.CustomerService;
-import cosmo.springframework.msscbrewery.web.model.CustomerDto;
+import cosmo.springframework.msscbrewery.model.CustomerDto;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

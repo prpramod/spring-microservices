@@ -1,5 +1,4 @@
-package cosmo.springframework.msscbrewery.web.model;
-
+package cosmo.springframework.msscbrewery.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -12,11 +11,8 @@ import java.util.UUID;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-public class BeerDto {
 
-    private UUID id ;
-    private String beerName;
-    private String beerStyle;
-    private long upc;
-
+public class CustomerDto {
+    private UUID id;
+    private String name;
 }
