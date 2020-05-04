@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.UUID;
 
-
+// @Deprecated since we have v2 of the api now
 @RequestMapping("api/v1/beer")
 @RestController
 public class BeerController {
